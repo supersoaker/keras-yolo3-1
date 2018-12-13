@@ -31,9 +31,9 @@
     },
 
     "valid": {
-        "valid_image_folder":   "",
-        "valid_annot_folder":   "",
-        "cache_name":           "",
+        "valid_image_folder":   "./data/IPM_Dataset_Valid/Annotations/",
+        "valid_annot_folder":   "./data/IPM_Dataset_Valid/Annotations/",
+        "cache_name":           "ipm_valid.pkl",
 
         "valid_times":          1
     }
